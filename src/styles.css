@@ -21,3 +21,4 @@
 .project-card:nth-child(1),.project-card:nth-child(2),.project-card:nth-child(3){min-height:0;margin-top:0;aspect-ratio:9/14}.project-video{top:180px;height:calc(100% - 242px)}.project-title,.project-card:nth-child(2) .project-title{top:54px;bottom:auto;font-size:clamp(2.1rem,3.2vw,3.7rem)}.project-card:nth-child(2) .project-meta,.project-card:nth-child(2) i{bottom:29px}
 @media(max-width:800px){.project-card:nth-child(1),.project-card:nth-child(2),.project-card:nth-child(3){aspect-ratio:9/14}.project-video{top:160px;height:calc(100% - 220px)}}
 @media(min-width:801px){.project-grid{grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch}.project-card:nth-child(1),.project-card:nth-child(2),.project-card:nth-child(3){height:620px;aspect-ratio:auto}.project-card .project-meta{display:none}}
+.definition-grid h3{margin-top:30px}
